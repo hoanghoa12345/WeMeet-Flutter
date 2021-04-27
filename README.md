@@ -85,9 +85,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot 1][product-screenshot-1]](sample/sample1.jpg)
-[![Product Name Screen Shot 2][product-screenshot-2]](sample/sample2.jpg)
-[![Product Name Screen Shot 3][product-screenshot-3]](sample/sample3.jpg)
+<img src = "https://raw.githubusercontent.com/hoanghoa12345/WeMeet-Flutter/main/sample/sample1.jpg" width = "300"/><img src = "https://raw.githubusercontent.com/hoanghoa12345/WeMeet-Flutter/main/sample/sample2.jpg" width = "300"/><img src = "https://raw.githubusercontent.com/hoanghoa12345/WeMeet-Flutter/main/sample/sample3.jpg" width = "300"/>
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -200,6 +198,3 @@ Project Link: [https://github.com/hoanghoa12345/WeMeet-Flutter](https://github.c
 [license-url]: https://github.com/hoanghoa12345/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/hoanghoa12345
-[product-screenshot-1]: sample/sample1.jpg
-[product-screenshot-2]: sample/sample2.jpg
-[product-screenshot-3]: sample/sample3.jpg
