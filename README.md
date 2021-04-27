@@ -85,7 +85,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src = "https://raw.githubusercontent.com/hoanghoa12345/WeMeet-Flutter/main/sample/sample1.jpg" width = "300"/><img src = "https://raw.githubusercontent.com/hoanghoa12345/WeMeet-Flutter/main/sample/sample2.jpg" width = "300"/><img src = "https://raw.githubusercontent.com/hoanghoa12345/WeMeet-Flutter/main/sample/sample3.jpg" width = "300"/>
+<img src = "https://raw.githubusercontent.com/hoanghoa12345/WeMeet-Flutter/main/sample/sample1.jpg" width = "200"/><img src = "https://raw.githubusercontent.com/hoanghoa12345/WeMeet-Flutter/main/sample/sample2.jpg" width = "200"/><img src = "https://raw.githubusercontent.com/hoanghoa12345/WeMeet-Flutter/main/sample/sample3.jpg" width = "200"/>
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
